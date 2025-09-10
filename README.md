@@ -11,6 +11,7 @@ Our mission is to deliver **transparency, stability, and scalability** for secur
 - 📸 Instagram: [https://instagram.com/tsl.teslacrypto](https://instagram.com/tsl.teslacrypto)
 - 💼 LinkedIn: [https://www.linkedin.com/in/tsl-crypto-588523381](https://www.linkedin.com/in/tsl-crypto-588523381)
 - 💬 Telegram: https://t.me/tslcrypto
+🖼️ Logo (SVG 32x32): [Download](https://github.com/TSLcrypto/tslcrypto/blob/main/assets/TSL-logo.svg)
 
 ## 📜 Contract
 - **Symbol:** TSL  
